@@ -628,8 +628,8 @@
 "../../../Engine/Content/EngineMaterials/PaperDiffuse.uasset" 627
 "../../../Engine/Content/EngineMaterials/PaperNormal.uasset" 628
 "../../../Engine/Content/EngineMaterials/PhysMat_Carboard.uasset" 629
-"../../../Engine/Content/EngineMaterials/PhysMat_Metal.uasset" 630
-"../../../Engine/Content/EngineMaterials/PhysMat_Rubber.uasset" 631
+"../../../Engine/Content/EngineMaterials/PhysMat_Ice.uasset" 630
+"../../../Engine/Content/EngineMaterials/PhysMat_Metal.uasset" 631
 "../../../Engine/Content/EngineMaterials/PhysMat_Vehicle.uasset" 632
 "../../../Engine/Content/EngineMaterials/PhysMat_VehicleRagdoll.uasset" 633
 "../../../Engine/Content/EngineMaterials/PPVolumeMaterial.uasset" 634
@@ -1739,7 +1739,7 @@
 "../../../Engine/Content/VREditor/BasicMeshes/SM_Pyramid_01.uasset" 1738
 "../../../Engine/Content/VREditor/BasicMeshes/SM_Room_01.uasset" 1739
 "../../../Engine/Content/Maps/Templates/VR-Basic.umap" 1740
-"../../../Engine/Content/EngineMaterials/PhysMat_Ice.uasset" 1741
+"../../../Engine/Content/EngineMaterials/PhysMat_Rubber.uasset" 1741
 "../../../../../../Users/efrost/Documents/Unreal Projects/MaterialTest1/Content/NewMaterial.uasset" 1742
 "../../../Engine/Content/BasicShapes/Sphere.uasset" 1743
 "../../../../../../Users/efrost/Documents/Unreal Projects/MaterialTest1/Content/SphereBP.uasset" 1744
